@@ -3,7 +3,12 @@ Quick simple program for checking the visibility of ISS flyovers within the next
 
 # Dependencies:
 requests
+
 json
+
 datetime
+
 pprint (optional - for print formatting)
+
 webbrowser
+
