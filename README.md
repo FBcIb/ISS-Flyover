@@ -13,3 +13,7 @@ pprint (optional - for print formatting)
 webbrowser
 
 AccuWeather API key (obtained here: https://developer.accuweather.com/ and stored in iss_flyover_config)
+
+
+# Notes:
+Subject to future change as Nathan Bergey, whose ISS tracking is used (source: http://open-notify.org/ and github: https://github.com/open-notify/Open-Notify-API), plans to disable ISS pass predictions.
