@@ -12,3 +12,4 @@ pprint (optional - for print formatting)
 
 webbrowser
 
+AccuWeater API key (obtained here: https://developer.accuweather.com/ and stored in iss_flyover_config)
