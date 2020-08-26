@@ -8,8 +8,6 @@ import iss_flyover_config
 areacode = str(input('Please enter your area code: '))
 key = iss_flyover_config.accu_key
 
-print(key)
-
 # Request LocationKey
 url = 'http://dataservice.accuweather.com/locations/v1/postalcodes/US/search?apikey=' + key + '&q=' + areacode + 'language=en-us&details=false' 
 t = requests.get(url)
